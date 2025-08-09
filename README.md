@@ -16,7 +16,7 @@ Here are the topics which I have covered uptill now:
 13. Binary Exponentiation, Buy & Sell Problem. 
 14. Container with the most water. 
 15. Product of Array except itself.
-16. Pointers. 
+16. Pointers. =
 17. Binary Search with Iterative and Recursive Approaches. 
 18. Search in Rotated Sorted Array. 
 19. Peak Index in Mountain Array. 
