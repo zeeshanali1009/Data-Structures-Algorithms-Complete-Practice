@@ -37,3 +37,7 @@ Here are the topics which I have covered uptill now:
 34. 2D Arrays. 
 35. Search a 2D Array. 
 36. Spiral Matrix.
+37. 2 Sum.
+38. 3 Sum.
+39. 4 Sum.
+40. Sub Array Sum.
