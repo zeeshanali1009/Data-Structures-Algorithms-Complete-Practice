@@ -41,4 +41,7 @@ Here are the topics which I have covered uptill now:
 38. 3 Sum.
 39. 4 Sum.
 40. Sub Array Sum.
-41. Recursions
+41. Recursion.
+42. Fibonacci, Binary Search and Check if Array is Sorted.
+43. Subsets and Subsets (Ignoring Duplicates).
+44. Permutations using Recursion.
