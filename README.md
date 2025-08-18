@@ -45,3 +45,13 @@ Here are the topics which I have covered uptill now:
 42. Fibonacci, Binary Search and Check if Array is Sorted.
 43. Subsets and Subsets (Ignoring Duplicates).
 44. Permutations using Recursion.
+45. N-Queens Problem.
+46. Sudoku Solver Problem.
+47. Rat in a Maze Problem.
+48. Combination Sum Problem.
+49. Palindrome Partitioning.
+50. Merge Sort Algorithm.
+51. Quick Sort Algorithm.
+52. Inversion Count Problem.
+53. Knight Tour Problem.
+54. OOP in C++.
