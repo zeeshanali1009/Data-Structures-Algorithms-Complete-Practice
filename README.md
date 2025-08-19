@@ -55,3 +55,6 @@ Here are the topics which I have covered uptill now:
 52. Inversion Count Problem.
 53. Knight Tour Problem.
 54. OOP in C++.
+55. Link List
+56. Reverse a Linked List
+57. Middle of a Linked List
