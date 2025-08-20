@@ -58,3 +58,5 @@ Here are the topics which I have covered uptill now:
 55. Link List
 56. Reverse a Linked List
 57. Middle of a Linked List
+58. Merge 2 linked list.
+59. Detect and remove the looo.
