@@ -55,8 +55,16 @@ Here are the topics which I have covered uptill now:
 52. Inversion Count Problem.
 53. Knight Tour Problem.
 54. OOP in C++.
-55. Link List
-56. Reverse a Linked List
-57. Middle of a Linked List
-58. Merge 2 linked list.
-59. Detect and remove the looo.
+55. Linked List.
+56. Reverse a Linked List.
+57. Middle of Linked List.
+58. Detect and remove the loop/Cycles.
+59. Merge 2 linked list.
+60. Copy List with Random Pointer.
+61. Doubly Linked List.
+62. Circular Linked List.
+63. Flatten a Doubly Linked List.
+64. Reverse Nodes in K-Group.
+65. Swap Nodes in Pairs.
+
+
