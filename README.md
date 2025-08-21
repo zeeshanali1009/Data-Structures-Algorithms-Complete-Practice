@@ -1,8 +1,8 @@
 # Data-Structures-Algorithms-Complete-Practice
 In this self-initiated learning phase, I will be covering all the concepts of data structures and algorithms in full detail.
 Here are the topics which I have covered uptill now:
-1. Flowchart & Pseudocodes> 
-2. Variables, Datatypes and Operaters> 2D Arrays in C++. 
+1. Flowchart & Pseudocodes.
+2. Variables, Datatypes and Operaters. 2D Arrays in C++. 
 3. Conditional Statements & Loops. 
 4. Patterns.
 5. Functions. 
@@ -55,3 +55,8 @@ Here are the topics which I have covered uptill now:
 52. Inversion Count Problem.
 53. Knight Tour Problem.
 54. OOP in C++.
+55. Link List
+56. Reverse a Linked List
+57. Middle of a Linked List
+58. Merge 2 linked list.
+59. Detect and remove the looo.
