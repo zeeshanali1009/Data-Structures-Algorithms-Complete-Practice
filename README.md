@@ -66,5 +66,5 @@ Here are the topics which I have covered uptill now:
 63. Flatten a Doubly Linked List.
 64. Reverse Nodes in K-Group.
 65. Swap Nodes in Pairs.
-
+66. Stacks
 
