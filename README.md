@@ -67,5 +67,5 @@ Here are the topics which I have covered uptill now:
 64. Reverse Nodes in K-Group.
 65. Swap Nodes in Pairs.
 66. Stacks
-67. Stack Proble
+67. Stack Problems
 
