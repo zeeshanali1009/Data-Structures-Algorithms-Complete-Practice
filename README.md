@@ -66,6 +66,14 @@ Here are the topics which I have covered uptill now:
 63. Flatten a Doubly Linked List.
 64. Reverse Nodes in K-Group.
 65. Swap Nodes in Pairs.
-66. Stacks
-67. Stack Problems
-
+66. Stacks.
+67. Valid Paranthesis. 
+68. Stock Span Problem. 
+69. Next Greater Element. 
+70. Previous Smaller Element. 
+71. Design a Min Stack. 
+72. Largest Rectangle in Histogram. 
+73. Next Greater Element ll. 
+74. Trapping Rain Water. 
+75. The Celebrity Problem.
+76. LRU Cache in Linked List. 
