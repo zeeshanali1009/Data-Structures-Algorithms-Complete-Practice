@@ -76,4 +76,10 @@ Here are the topics which I have covered uptill now:
 73. Next Greater Element ll. 
 74. Trapping Rain Water. 
 75. The Celebrity Problem.
-76. LRU Cache in Linked List. 
+76. LRU Cache in Linked List.
+77. Queues & Deque
+78. Circular Queue
+79. Stack using queues & Queues using stacks
+80. First Unique Character in string
+81. Sliding Window Maximum
+82. Gas Station Problem
