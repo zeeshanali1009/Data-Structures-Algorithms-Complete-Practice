@@ -83,3 +83,4 @@ Here are the topics which I have covered uptill now:
 80. First Unique Character in string
 81. Sliding Window Maximum
 82. Gas Station Problem
+83. Binary Tree
