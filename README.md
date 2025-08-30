@@ -87,3 +87,30 @@ Here are the topics which I have covered uptill now:
 84. All the peograms related to BT
 85. Graphs
 86. All about graphs
+83. Binary Trees
+84. Height of a Binary Tree
+85. Identical Tree & Subtree of another Tree
+86. Diameter of Binary Tree
+87. Top View of a Binary Tree
+88. Kth Level of a Tree
+89. Lowest Common Ancestor of Binary Tree
+90. Build Tree from Preorder & Inorder
+91. Transform to Sum Tree
+92. Binary Tree Paths
+93. Maximum Width of Binary Tree
+94. Morris Inorder Traversal
+95. Flatten Tree to Linked List
+96. Binary Search Tree (BST)
+97. Sorted Array to Balanced BST
+98. Validate BST
+99. Min Distance between BST Nodes
+100. Kth Smallest in BST
+101. Lowest Common Ancestor in BST
+102. Construct BST from Preorder
+103. Merge two BSTs
+104. Recover BST
+105. Largest BST in Binary Tree
+106. Populate Next using Right Pointer in each Node
+107. BST Iterator
+108. Inorder Predecessor & Successor
+109. Graphs
